@@ -109,7 +109,10 @@
 ## 1. 시야 보기
 
 ### 시야 후기 보기 
-<img src="blob:https://velog.io/59c81db6-d603-4111-9f5f-f6168f1d2926" width="400" height="800"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/1c5858c2-6738-4704-ab0e-f5f2ca3e7740/image.gif" width="400" height="800"/>
+
+### 좌석 스크랩하기
+<img src="https://velog.velcdn.com/images/ynco32/post/67305caf-82d4-465f-82a9-1b75ec9b432e/image.gif" width="400" height="800"/>
 
 ### 후기 작성
 <img src="https://velog.velcdn.com/images/ynco32/post/e3eee618-b35f-42cb-800e-6de03f076c4d/image.gif" width="400" height="800"/>
@@ -137,7 +140,7 @@
 
 ## 5. 마이페이지
 ### 내가 작성한 시야 후기 조회 및 삭제
-<img src="blob:https://velog.io/76f32b88-33aa-458c-96f7-6f8c31377823" width="400" height="800"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/f19034c1-6afd-4cd4-ad5a-e717cff636e5/image.gif" width="400" height="800"/>
 
 ### 내가 스크랩한 나눔 게시글 조회, 내가 작성한 나눔 게시글 조회
 <img src="https://velog.velcdn.com/images/ynco32/post/c6ecf4a7-e986-4ebe-8213-281bd59aa0f6/image.gif" width="400" height="800"/>
